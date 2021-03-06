@@ -1,3 +1,3 @@
 # Core-Node-JS-Projects
 
-Node JS Projects for beginners
+Node JS Projects for Beginners
